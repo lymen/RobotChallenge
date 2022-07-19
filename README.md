@@ -44,7 +44,8 @@ To run the Tests:
 
     1. Right click on the TestRobotChallenge Project in the Solutions Explorer window
     2. Build
-    3. Click Test Menu -> Run All Tests
+    3. Click Test Menu -> Test Explorer
+    4. Click Run All Test in View Icon
 
 ### Notes
 Build error may occur for some unrecognized functions/syntax (do this on both main and test projects):
